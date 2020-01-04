@@ -1,6 +1,5 @@
 import constants
 import os
-import random
 import sys
 
 TEAMS = []
